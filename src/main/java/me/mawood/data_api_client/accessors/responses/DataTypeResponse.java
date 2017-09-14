@@ -1,7 +1,6 @@
 package me.mawood.data_api_client.accessors.responses;
 
 import me.mawood.data_api_client.objects.DataType;
-import me.mawood.data_api_client.objects.Device;
 
 /**
  * data_api_client

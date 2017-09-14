@@ -2,8 +2,6 @@ package me.mawood.data_api_client.accessors.responses;
 
 import me.mawood.data_api_client.objects.Device;
 
-import java.util.Collection;
-
 /**
  * data_api_client
  * Created by Matthew Wood on 14/09/2017.

@@ -2,7 +2,6 @@ package me.mawood.data_api_client.accessors.responses;
 
 import me.mawood.data_api_client.objects.Reading;
 
-import java.util.Arrays;
 import java.util.Collection;
 
 /**

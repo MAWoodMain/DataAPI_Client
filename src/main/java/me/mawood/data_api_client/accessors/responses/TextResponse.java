@@ -1,7 +1,5 @@
 package me.mawood.data_api_client.accessors.responses;
 
-import java.util.Arrays;
-
 /**
  * data_api_client
  * Created by Matthew Wood on 14/09/2017.

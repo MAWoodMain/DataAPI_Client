@@ -1,8 +1,6 @@
 package me.mawood.data_api_client;
 
 import me.mawood.data_api_client.accessors.DataTypeAccessor;
-import me.mawood.data_api_client.accessors.DeviceAccessor;
-import me.mawood.data_api_client.accessors.ReadingAccessor;
 
 /**
  * data_api_client
