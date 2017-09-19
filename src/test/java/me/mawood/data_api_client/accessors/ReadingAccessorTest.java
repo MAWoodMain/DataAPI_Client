@@ -24,7 +24,7 @@ public class ReadingAccessorTest
     @Before
     public void setUp() throws Exception
     {
-        accessor = new ReadingAccessor("http://localhost:8080");
+        accessor = new ReadingAccessor("http://silent-fox/api/");
     }
     @Test
     public void getReadingsForWithEpoch() throws Exception

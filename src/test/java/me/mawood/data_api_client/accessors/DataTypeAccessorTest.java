@@ -23,7 +23,7 @@ public class DataTypeAccessorTest
     @Before
     public void setUp() throws Exception
     {
-        accessor = new DataTypeAccessor("http://localhost:8080");
+        accessor = new DataTypeAccessor("http://silent-fox/api/");
         testType = new DataType();
         testType.setName("Test type");
         testType.setTag("test");

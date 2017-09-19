@@ -23,7 +23,7 @@ public class DeviceAccessorTest
     @Before
     public void setUp() throws Exception
     {
-        accessor = new DeviceAccessor("http://localhost:8080");
+        accessor = new DeviceAccessor("http://silent-fox/api/");
         testDevice = new Device();
         testDevice.setName("Test Device");
         testDevice.setTag("test");
